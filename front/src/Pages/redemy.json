@@ -1,0 +1,59 @@
+{
+  "remedies": {
+    "aphids": [
+      "Use insecticidal soap or neem oil to control aphids.",
+      "Introduce ladybugs or lacewings, natural predators of aphids, into the garden.",
+      "Prune affected plant parts to remove aphid colonies."
+    ],
+    "armyworm": [
+      "Apply Bacillus thuringiensis (Bt) to control armyworm larvae.",
+      "Handpick and destroy armyworms when observed in small numbers.",
+      "Practice crop rotation to reduce armyworm populations."
+    ],
+    "bettel": [
+      "Apply diatomaceous earth (DE) around affected plants to control beetles.",
+      "Use row covers to prevent adult beetles from laying eggs on plants.",
+      "Introduce parasitic nematodes to the soil to control beetle larvae."
+    ],
+    "boolworm": [
+      "Apply insecticidal spray to control bollworm infestations.",
+      "Plant trap crops such as mustard or sunflower to lure bollworms away from main crops.",
+      "Handpick and destroy bollworm eggs and larvae when detected."
+    ],
+    "fruit_flies": [
+      "Set up traps with apple cider vinegar or sugar water to catch fruit flies.",
+      "Keep kitchen surfaces clean and dispose of overripe fruits to prevent fruit fly infestations.",
+      "Cover fruit bowls or containers with mesh to prevent fruit fly access."
+    ],
+    "grasshopper": [
+      "Apply insecticidal soap or neem oil to control grasshoppers.",
+      "Use barriers such as row covers or mesh to protect vulnerable plants from grasshopper feeding.",
+      "Introduce natural predators like birds or praying mantises to control grasshopper populations."
+    ],
+    "hornworms": [
+      "Handpick and destroy hornworms when found on tomato plants.",
+      "Apply Bacillus thuringiensis (Bt) to control hornworm larvae.",
+      "Remove weeds that serve as alternative hosts for hornworms."
+    ],
+    "mites": [
+      "Spray affected plants with a strong stream of water to dislodge mites.",
+      "Introduce predatory mites or ladybugs to control mite populations naturally.",
+      "Apply horticultural oils or insecticidal soap to suffocate and kill mites."
+    ],
+    "mosquito": [
+      "Eliminate standing water sources to prevent mosquito breeding.",
+      "Use mosquito repellents containing DEET or picaridin when outdoors.",
+      "Install screens on windows and doors to prevent mosquitoes from entering indoor spaces."
+    ],
+    "sawfly": [
+      "Apply insecticidal spray to control sawfly larvae.",
+      "Prune affected plant parts to remove sawfly-infested leaves or branches.",
+      "Introduce natural enemies such as parasitic wasps to control sawfly populations."
+    ],
+    "stem_borer": [
+      "Remove and destroy infested plant stems to prevent stem borer spread.",
+      "Apply beneficial nematodes to the soil to control stem borer larvae.",
+      "Practice crop rotation to disrupt stem borer life cycles."
+    ]
+  }
+}
